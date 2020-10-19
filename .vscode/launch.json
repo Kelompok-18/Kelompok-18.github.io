@@ -7,6 +7,12 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
+            "name": "Open reviewdokter.html",
+            "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\reviewdokter.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
             "name": "Open caridokter.html",
             "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\caridokter.html"
         }
