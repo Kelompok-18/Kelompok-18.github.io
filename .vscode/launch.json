@@ -7,6 +7,12 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
+            "name": "Open tentangkami.html",
+            "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\tentangkami.html"
+        }
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
             "name": "Open reviewdokter.html",
             "file": "c:\\Users\\hp\\Desktop\\kelompok-18.github.io\\reviewdokter.html"
         }
